@@ -222,6 +222,7 @@ Connection Delegation
 
 .. image:: images/jumpbox.png
     :align: right
+    :width: 268
 
 Included is a preview of **Connection Delegation**, a Mitogen-specific
 implementation of `stackable connection plug-ins`_. This enables connections
