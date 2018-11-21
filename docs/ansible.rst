@@ -8,7 +8,7 @@
 
     -->
 
-    <img align="right" width="299" src="_images/cell_division.svg">
+    <img align="right" width="224" src="_images/cell_division.svg">
 
 
 Mitogen for Ansible
