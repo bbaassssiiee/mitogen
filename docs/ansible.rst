@@ -1,6 +1,15 @@
 
-.. image:: images/ansible/cell_division.png
-    :align: right
+.. raw:: html
+
+    <!--
+
+.. image:: images/ansible/cell_division.svg
+.. raw:: html
+
+    -->
+
+    <img align="right" width="299" src="_images/cell_division.svg">
+
 
 Mitogen for Ansible
 ===================
